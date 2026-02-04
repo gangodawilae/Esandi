@@ -17,7 +17,8 @@
   2. cocolate cakes.
 
   3.Milkshake   and more.
-  ![These are my favourite brownies!](brownnie.png)
+  
+  ![These are my favourite brownies!](brownie-Copy.jpg)
   
 -I like all subject, but why I like digi tech is that I like to learn new things of coumpters like making websites and games and learning coding, it's very important to learn and also very intresting. 
 
