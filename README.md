@@ -22,6 +22,6 @@
 
 - I want  to be a doctor when I grow-up because I like to treat people and I'm studying my best to become a doctor in future. 
 
-- I also want to improve my violin and, chess skilss in future with my acadamic improvements. 
+- I also want to improve my violin and, chess skills in future with my acadamic improvements. 
 
 
