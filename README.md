@@ -12,7 +12,8 @@
 
 -I like a lot of foods like,
 
-    1. browines **I love brownies**
+    1. browines.
+**I love brownies**
 
   2. cocolate cakes.
 
