@@ -19,7 +19,8 @@
   3.Milkshake   and more.
   
   ![These are my favourite brownies!](brownie-Copy.jpg)
-  
+
+  <img src=
 -I like all subject, but why I like digi tech is that I like to learn new things of coumpters like making websites and games and learning coding, it's very important to learn and also very intresting. 
 
 - I want  to be a doctor when I grow-up because I like to treat people and I'm studying my best to become a doctor in future. 
